@@ -1,0 +1,3 @@
+1. from CMD start node server "node server" it will start at port no. 3000
+2. start ngrok , go ot directory then command "ngrok http 80" 
+ copy the globle link
